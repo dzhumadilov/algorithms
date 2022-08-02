@@ -1,4 +1,4 @@
 rootProject.name = 'algorithms'
-include 'bubble_sort'
+include 'sort'
 include 'core'
 
